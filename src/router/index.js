@@ -1,21 +1,21 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
-import LoginInterface from "@/components/LoginComponents/LoginInterface.vue";
-import CellInformation from "@/components/HomePageComponents/Main/PropertyManagementMain/CellInformation.vue";
-import HomePage from "@/components/HomePageComponents/Main/HomePageMain/HomePage.vue";
-import PropertyInforMation from "@/components/HomePageComponents/Main/PropertyManagementMain/PropertyInforMation.vue";
-import PropertyManagement from "@/components/HomePageComponents/Main/ParentMain.vue";
-import PositionManagement from "@/components/HomePageComponents/Main/PropertyManagementMain/PositionManagement.vue";
-import StaffManagement from "@/components/HomePageComponents/Main/PropertyManagementMain/StaffManagement.vue";
-import ParkingRecord from "@/components/HomePageComponents/Main/ParkManagementMain/ParkingRecord.vue";
-import ParkManagement from "@/components/HomePageComponents/Main/ParkManagementMain/ParkManagement.vue";
-import StallManagement from "@/components/HomePageComponents/Main/ParkManagementMain/StallManagement.vue";
-import CarManagement from "@/components/HomePageComponents/Main/ParkManagementMain/CarManagement.vue";
-import VehiclesPresent from "@/components/HomePageComponents/Main/ParkManagementMain/VehiclesPresent.vue";
-import HouseManagement from "@/components/HomePageComponents/Main/NeighbourhoodMain/HouseManagement.vue";
-import PropertyRegistration from "@/components/HomePageComponents/Main/NeighbourhoodMain/PropertyRegistration.vue";
-import CommunityStructure from "@/components/HomePageComponents/Main/NeighbourhoodMain/CommunityStructure.vue";
-import NeighbourhoodPublicity from "@/components/HomePageComponents/Main/NeighbourhoodMain/NeighbourhoodPublicity.vue";
+import LoginInterface from "src/components/LoginComponents/LoginInterface.vue";
+import CellInformation from "src/components/HomePageComponents/Main/PropertyManagementMain/CellInformation.vue";
+import HomePage from "src/components/HomePageComponents/Main/HomePageMain/HomePage.vue";
+import PropertyInforMation from "src/components/HomePageComponents/Main/PropertyManagementMain/PropertyInforMation.vue";
+import PropertyManagement from "src/components/HomePageComponents/Main/ParentMain.vue";
+import PositionManagement from "src/components/HomePageComponents/Main/PropertyManagementMain/PositionManagement.vue";
+import StaffManagement from "src/components/HomePageComponents/Main/PropertyManagementMain/StaffManagement.vue";
+import ParkingRecord from "src/components/HomePageComponents/Main/ParkManagementMain/ParkingRecord.vue";
+import ParkManagement from "src/components/HomePageComponents/Main/ParkManagementMain/ParkManagement.vue";
+import StallManagement from "src/components/HomePageComponents/Main/ParkManagementMain/StallManagement.vue";
+import CarManagement from "src/components/HomePageComponents/Main/ParkManagementMain/CarManagement.vue";
+import VehiclesPresent from "src/components/HomePageComponents/Main/ParkManagementMain/VehiclesPresent.vue";
+import HouseManagement from "src/components/HomePageComponents/Main/NeighbourhoodMain/HouseManagement.vue";
+import PropertyRegistration from "src/components/HomePageComponents/Main/NeighbourhoodMain/PropertyRegistration.vue";
+import CommunityStructure from "src/components/HomePageComponents/Main/NeighbourhoodMain/CommunityStructure.vue";
+import NeighbourhoodPublicity from "src/components/HomePageComponents/Main/NeighbourhoodMain/NeighbourhoodPublicity.vue";
 
 Vue.use(VueRouter)
 

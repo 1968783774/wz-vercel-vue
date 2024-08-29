@@ -201,7 +201,7 @@ export default {
   margin-top: 50px;
   margin-left: 100px;
   border-radius: 30px;
-  background-image: url("../../assets/background.png");
+  background-image: url("background.png");
   background-size: cover;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }

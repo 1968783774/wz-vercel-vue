@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import LoginInterface from "@/components/LoginComponents/LoginInterface.vue";
+import LoginInterface from "src/components/LoginComponents/LoginInterface.vue";
 
 export default {
   name: 'App',

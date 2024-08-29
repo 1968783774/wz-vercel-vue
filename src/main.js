@@ -2,12 +2,12 @@ import Vue from 'vue'
 import App from './App.vue'
 import Element from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
-import router from '@/router';
+import router from 'src/router';
 import axios from "axios";
 import store from './store'
 import commonMethods from './store/commonMethods'
 // 引入iconfont图标
-import "../src/assets/icon/iconfont.css"
+import "./assets/icon/iconfont.css"
 import * as echarts from 'echarts';
 // tools
 // 引用lib-flexible插件

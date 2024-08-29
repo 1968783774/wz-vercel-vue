@@ -1,6 +1,6 @@
 <script>
-  import LoginMain from "@/components/LoginComponents/LoginMain.vue";
-  import LoginFoot from "@/components/LoginComponents/LoginFoot.vue"
+  import LoginMain from "src/components/LoginComponents/LoginMain.vue";
+  import LoginFoot from "src/components/LoginComponents/LoginFoot.vue"
 
   export default {
     name: "LoginInterface",

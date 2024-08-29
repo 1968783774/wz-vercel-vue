@@ -1,8 +1,8 @@
 <script>
 
-import HomeMainMenu from "@/components/HomePageComponents/MainMenu/HomeMainMenu.vue";
-import HomeHeader from "@/components/HomePageComponents/Header/HomeHeader.vue";
-import AsideMenu from "@/components/HomePageComponents/Aside/AsideMenu.vue";
+import HomeMainMenu from "src/components/HomePageComponents/MainMenu/HomeMainMenu.vue";
+import HomeHeader from "src/components/HomePageComponents/Header/HomeHeader.vue";
+import AsideMenu from "src/components/HomePageComponents/Aside/AsideMenu.vue";
 
 export default {
   name: "propertyManagement",
